@@ -1,0 +1,3 @@
+export const BaseURL = 'https://lhwagysmpddzhljcuxdd.supabase.co/rest/v1'
+
+export const APIKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxod2FneXNtcGRkemhsamN1eGRkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDM2MDExMzMsImV4cCI6MjAxOTE3NzEzM30.zAei8M283CDsS-U5FMnQuIMvRgEO5RBXcrRO75VA2Z0'
