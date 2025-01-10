@@ -64,6 +64,7 @@ export default function Home() {
             <Image src={earthHero} alt="Photo Profile" className='w-full h-auto'/>
             </div>
             <div className='w-1/2 flex flex-col item-center self-center'>
+              <p className='text-primary text-2xl font-medium'>- EcoSort -</p>
               <AnimatedText text="Sampah Terpilah, Alam Terjaga." className='!text-6xl !text-left'/>
               <p className='my-4 text-base font-medium'>
               Temukan cara mudah untuk memilah sampah, mendaur ulang, dan menjaga lingkungan demi masa depan yang lebih baik.
